@@ -14,8 +14,8 @@
 
 | Resource | Target Link |
 |:---|:---|
-| 🚀 **Live Production Application** | [https://YOUR_GITHUB_USERNAME.github.io/spsu-placement-tracker/](https://YOUR_GITHUB_USERNAME.github.io/spsu-placement-tracker/) *(or your deployed Vercel/Netlify link)* |
-| 💻 **GitHub Source Repository** | [https://github.com/YOUR_GITHUB_USERNAME/spsu-placement-tracker](https://github.com/YOUR_GITHUB_USERNAME/spsu-placement-tracker) |
+| 🚀 **Live Production Application** | [https://abhay-kumawat.github.io/DEV-OPS/](https://abhay-kumawat.github.io/DEV-OPS/) |
+| 💻 **GitHub Source Repository** | [https://github.com/abhay-kumawat/DEV-OPS](https://github.com/abhay-kumawat/DEV-OPS) |
 | 📊 **Google Sheet Persistence Tab** | `Students` tab on connected Google Sheet |
 | ⚙️ **Google Apps Script Web App** | Executable REST-like Web App endpoint |
 
